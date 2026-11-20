@@ -29,7 +29,7 @@ Debe ser larga, difícil de adivinar y diferente para cada cuenta. También es i
 **7. ¿Qué diferencia existe entre un hacker White Hat y un Black Hat?**
 El White Hat utiliza sus conocimientos para encontrar errores y mejorar la seguridad con autorización. El Black Hat aprovecha esos errores para realizar acciones ilegales o perjudiciales.
 
-8. ¿Por qué es importante realizar copias de seguridad?
+**8. ¿Por qué es importante realizar copias de seguridad?
 Porque permiten recuperar nuestros archivos si se pierden, se dañan o son eliminados. Así evitamos perder información importante.
 
 ## Parte B - Análisis de situaciones
